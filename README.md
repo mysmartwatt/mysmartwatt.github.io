@@ -1,2 +1,2 @@
-# smartwatt-pwa.github.io
-Progressive Web App for the EE3070 Project called SmartWatt.
+# oiiaioiiiai51121511121.github.io
+Progressive Web App for the EE3070 project.
